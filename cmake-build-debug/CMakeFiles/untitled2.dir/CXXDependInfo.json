@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/voltry/CLionProjects/rockpaperscrissors/cmake-build-debug",
+	"dir-cur-src" : "/home/voltry/CLionProjects/rockpaperscrissors",
+	"dir-top-bld" : "/home/voltry/CLionProjects/rockpaperscrissors/cmake-build-debug",
+	"dir-top-src" : "/home/voltry/CLionProjects/rockpaperscrissors",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/voltry/CLionProjects/rockpaperscrissors/cmake-build-debug/CMakeFiles/untitled2.dir"
+}

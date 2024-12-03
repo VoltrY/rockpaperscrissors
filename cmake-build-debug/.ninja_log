@@ -1,0 +1,6 @@
+# ninja log v6
+1	89	1733233044176969921	CMakeFiles/untitled2.dir/main.cpp.o.ddi	7c1a81f33b593c67
+89	94	1733233044266969925	CMakeFiles/untitled2.dir/CXX.dd	620ab23f392125ee
+89	94	1733233044266969925	CMakeFiles/untitled2.dir/main.cpp.o.modmap	620ab23f392125ee
+94	566	1733233044270303258	CMakeFiles/untitled2.dir/main.cpp.o	a87d78a8f38daf4b
+566	629	1733233044743636612	untitled2	cb695b30ced3cd03
